@@ -1,3 +1,1 @@
-"hello world"
-
-hello_world
+do puts "hello_world"
